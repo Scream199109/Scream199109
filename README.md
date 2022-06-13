@@ -3,6 +3,8 @@
 Привет, всяк сюда входящий!!!))) 
 Меня зовут Николай. 
 Я Fullstack разработчик Javascript.
+
+
 Мой стек : Javascript, React, Redux (Thunk/Saga), HTML, CSS,
 
 Node js, Express, PostgreSQL, Sequelize ORM, Jest, 
