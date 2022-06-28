@@ -2,7 +2,7 @@
 
 Привет, всяк сюда входящий!!!))) 
 Меня зовут Николай. 
-Я Fullstack разработчик Javascript.
+Я Fullstack разработчик на Javascript.
 
 
 Мой стек : Javascript, React, Redux (Thunk/Saga), HTML, CSS,
